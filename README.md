@@ -1,5 +1,6 @@
-# kickstart.nvim
-
+# This is a fork of kickstart neovim, with some cool plugins added on top of it. Feel free to explore the differences, but the dependencies are the same.
+# Just clone this into your ~/.config directory and change the name of the directory cloned to nvim.
+'mv ~/.config/MyConfig.nvim nvim'
 ## Introduction
 
 A starting point for Neovim that is:
